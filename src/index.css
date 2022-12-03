@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,500;1,200;1,500&display=swap');
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -39,6 +40,9 @@ code {
   justify-content: space-between;
   color: rgb(67, 84, 77);
   background-color: white;
+  margin-bottom: 50px;
+  align-items: center;
+  font-family: 'Kanit', sans-serif;
 }
 
 .left_header {
@@ -49,12 +53,14 @@ code {
 .left_header>span>img {
   height: 64px;
   width: 64px;
+  cursor: pointer;
 }
 
 .left_header>p {
   display: inline-block;
   font-size: 18px;
   font-weight: bold;
+  margin-bottom: 0;
 }
 
 .right_header {
@@ -66,6 +72,8 @@ code {
   list-style: none;
   display: flex;
   gap: 40px;
+  align-items: center;
+  margin-bottom: 0;
 }
 
 .right_header>ul>li {
@@ -358,17 +366,17 @@ code {
   flex-direction: column;
   align-items: center;
   padding: 40px;
-  gap: 30px;
+  gap: 25px;
 }
 .right-features h1{
   color: white;
   font-weight: bolder;
-  line-height: 65px;
-  font-size: 45px;
+  line-height: 55px;
+  font-size: 40px;
 }
 .right-features p{
   color: grey;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 /* Features Ends */
