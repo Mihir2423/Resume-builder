@@ -123,7 +123,7 @@ function Template() {
                   </div>
                   <div className="data">
                     <p className="semi-bold">Facebook</p>
-                    <p>Stephen@facebook</p>
+                    <p>mihir@facebook</p>
                   </div>
                 </li>
                 <li>
@@ -132,7 +132,7 @@ function Template() {
                   </div>
                   <div className="data">
                     <p className="semi-bold">Twitter</p>
-                    <p>Stephen@twitter</p>
+                    <p>mihir@twitter</p>
                   </div>
                 </li>
                 <li>
@@ -141,7 +141,7 @@ function Template() {
                   </div>
                   <div className="data">
                     <p className="semi-bold">Youtube</p>
-                    <p>Stephen@youtube</p>
+                    <p>mihir@youtube</p>
                   </div>
                 </li>
                 <li>
@@ -150,7 +150,7 @@ function Template() {
                   </div>
                   <div className="data">
                     <p className="semi-bold">Linkedin</p>
-                    <p>Stephen@linkedin</p>
+                    <p>mihir@linkedin</p>
                   </div>
                 </li>
               </ul>
